@@ -1,2 +1,8 @@
 # Labyrinth-of-the-Present
-A 2.5D role-playing game based on Unity, 3DMAX and developed independently.Runs smoothly on PC, mobile(apk is in the project)
+A 2.5D role-playing AR game based on Unity, 3DMAX and developed independently.Runs smoothly on PC, mobile(apk is in the project)
+
+This game is a handheld role-playing game that incorporates various elements, but AR elements as the primary focus. The key technologies used include touch control technology in Unity3d, Unity3d UI system, Animation system, collision system, AR system, special effects and sound effect production. The work can normally run on multiple machines and can be released to multiple platforms such as ios, Android and windows. It runs on phones with Android 4.0 and above. Using the Unity3D cross-platform engine as the development engine, C# as the development scripting language and Visual Studio 2015 as the authoring tool, the game is scientifically designed according to the development protocols of software engineering and the characteristics of mobile games, with exquisite graphics, comprehensive functions, easy operation and high challenge, interactivity, entertainment and gameplay.
+
+The plot of the game is about a war in an alien land, where the main character is transported to another land and given the identity of a ghost swordsman, and if he cannot find the exit out of here through the layers of fog at the end, then he will be trapped in this place forever. Before the main character enters the scene, he receives a sprite, the unity lady, and can enter the AR interface at any time to interact with the sprite using present-day summoning, including head-touching and dancing. The sprite will also assist the main character in his mission and guide him through the mists.
+
+Link to demo video---https://drive.google.com/file/d/1iFjb1BVg2OFIsjHSb9ybOD3ytwzn1pII/view?usp=sharing
